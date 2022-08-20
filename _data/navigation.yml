@@ -1,0 +1,50 @@
+# main links
+main:
+  - title: "Quick-Start Guide"
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  - title: "Hartford St"
+    url: /hartford-st/
+  - title: "Textiles"
+    url: /textiles/
+  - title: "Speaker"
+    url: /speaker/
+  - title: "Consulting"
+    url: /entropy-tamer/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+
+hartford:
+  - title: Hartford North house by house
+    url: /hartford-st/block/
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+  - title:
+    url:
+
+speaker:
+  - title: Laura speaks
+    url: /speaker/
+  - title: Costume lectures
+    url: /speaker/costume/
+  - title: Odd Salon
+    url: /speaker/oddsalon/
