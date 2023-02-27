@@ -15,31 +15,6 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
 
-hartford:
-  - title: Hartford North house by house
-    url: /hartford-st/block/
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
-  - title:
-    url:
 
 speaker:
   - title: Laura speaks
