@@ -9,8 +9,7 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 
 <p><img src="https://www.oddsalon.com/wp-content/uploads/2018/01/IMG_20160726_205609-cropped-300x153.jpeg" alt="(ohai there)" width="300" height="153" /></p>
 
-
-### Talks:
+### Talks
 
 - <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy
 - <a href="https://www.oddsalon.com/cursed-march-24-2015/">Odd Salon CURSED</a> - March 2015 - “…But You Can Never Leave” – The Truth of the Curse of Santa Cruz
@@ -23,14 +22,15 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 - Odd Salon SCHEME - August 2019 - Sutro Saves the Silver
 - Odd Salon Giving Tuesday 2021 - History of Gelatin
 - Odd Salon REANIMATE - March 2022 - Publishing on Perishing: the 19th Century Medical Race to Identify Final Irreversible Death
+- Odd Salon BAMBOOZLED - September 2023 - Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries
 
-### Other Stuff:
+### Other Stuff
 
 - <a href="https://www.oddsalon.com/justice-october-25-2016/">Odd Salon JUSTICE</a> - August 2016 - Curator
 - <a href="https://www.oddsalon.com/oddments-2016-dec-13-2016/">Odd Salon ODDMENTS 2016</a> - Costume contest organizer
 - Odd Salon ODDMENTS 2017 - Costume contest organizer
 
-### Retreads:
+### Retreads
 
 - <a href="https://sf.nerdnite.com/2015/01/12/nerd-nite-sf-56-reinventing-satellites-underwater-archaeology-and-the-illusion-of-bodily-perfection/">Nerd Nite SF #56</a> - Illusion of Beauty
 - <a href="https://sf.nerdnite.com/2016/06/07/nerd-nite-73-mudlarking-strandbeest-machines-and-mite-sex/">Nerd Nite SF # 73</a> - Mudlarking and Material Culture
