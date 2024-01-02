@@ -22,7 +22,7 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 - Odd Salon ODDMENTS 2018 - December 2018 - Death on Rails
 - Odd Salon SCHEME - August 2019 - Sutro Saves the Silver
 - Odd Salon Giving Tuesday 2021 - History of Gelatin
-- Odd Salon REANIMATE - March 2022 - Publishing on Perishing: the 19th Century Medical Race to Identify Final Irreversible Death
+- Odd Salon REANIMATE - March 2022 - <a href="https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651">Publishing on Perishing: the 19th Century Medical Race to Identify Final Irreversible Death</a>
 
 ### Other Stuff:
 
