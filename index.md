@@ -26,7 +26,7 @@ This page exists in its current format because it's better to have fractional pr
 - Odd Salon Giving Tuesday 2021 - History of Gelatin
 - Odd Salon REANIMATE - March 2022 - <a href="https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651">Publishing on Perishing</a>: the 19th Century Medical Race to Identify Final Irreversible Death
 
-### Other Stuff
+### Other Odd Salon Stuff
 
 - <a href="https://www.oddsalon.com/justice-october-25-2016/">Odd Salon JUSTICE</a> - August 2016 - Curator
 - <a href="https://www.oddsalon.com/oddments-2016-dec-13-2016/">Odd Salon ODDMENTS 2016</a> - Costume contest organizer
