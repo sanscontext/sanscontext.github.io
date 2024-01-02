@@ -18,8 +18,8 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Laura fecit (Laura made this)
-email: sanscontext@users.noreply.github.com
+title: Laura Fecit (Laura made this)
+email: rubin.laurad+inquiries@remove-this-antispam-part.gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer living and working in the Silicon Valley. She brings together the history of dress and technology, with an emphasis in experimental archaeology and primary source research.
 baseurl: "" # the subpath of your site, e.g. /blog
