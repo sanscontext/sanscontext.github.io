@@ -1,6 +1,7 @@
 ---
-title: Odd Salon Talks
+title: A quick list
 published: true
+layout: home
 ---
 
 About this "Laura Rubin" character...
@@ -9,8 +10,9 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 
 <p><img src="https://www.oddsalon.com/wp-content/uploads/2018/01/IMG_20160726_205609-cropped-300x153.jpeg" alt="(ohai there)" width="300" height="153" /></p>
 
+This page exists in its current format because it's better to have fractional professional web presence than to spend another year without any at all.
 
-### Talks:
+### Odd Salon Talks
 
 - <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy
 - <a href="https://www.oddsalon.com/cursed-march-24-2015/">Odd Salon CURSED</a> - March 2015 - “…But You Can Never Leave” – The Truth of the Curse of Santa Cruz
@@ -22,15 +24,15 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 - Odd Salon ODDMENTS 2018 - December 2018 - Death on Rails
 - Odd Salon SCHEME - August 2019 - Sutro Saves the Silver
 - Odd Salon Giving Tuesday 2021 - History of Gelatin
-- Odd Salon REANIMATE - March 2022 - <a href="https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651">Publishing on Perishing: the 19th Century Medical Race to Identify Final Irreversible Death</a>
+- Odd Salon REANIMATE - March 2022 - <a href="https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651">Publishing on Perishing</a>: the 19th Century Medical Race to Identify Final Irreversible Death
 
-### Other Stuff:
+### Other Stuff
 
 - <a href="https://www.oddsalon.com/justice-october-25-2016/">Odd Salon JUSTICE</a> - August 2016 - Curator
 - <a href="https://www.oddsalon.com/oddments-2016-dec-13-2016/">Odd Salon ODDMENTS 2016</a> - Costume contest organizer
 - Odd Salon ODDMENTS 2017 - Costume contest organizer
 
-### Retreads:
+### Other talks
 
 - <a href="https://sf.nerdnite.com/2015/01/12/nerd-nite-sf-56-reinventing-satellites-underwater-archaeology-and-the-illusion-of-bodily-perfection/">Nerd Nite SF #56</a> - Illusion of Beauty
 - <a href="https://sf.nerdnite.com/2016/06/07/nerd-nite-73-mudlarking-strandbeest-machines-and-mite-sex/">Nerd Nite SF # 73</a> - Mudlarking and Material Culture
@@ -38,3 +40,4 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 - San Francisco Browning Society - October 12, 2018 - Mudlarking and the Material Culture of London
 - Litcrawl 2018 - <a href="https://www.oddsalon.com/salon/odd-salon-at-litquake-litcrawl-cemetery-stories/">Cemetery Stories - Death on Rails</a>
 - Exploratorium After Dark - Spooky Season 2021 -  Undead Science - William Tebb and the Society for the Prevention of Premature Burial
+- Dickens Fair participant workshops: What Victorian Londoners Knew, and The Material Culture of Victorian London.
