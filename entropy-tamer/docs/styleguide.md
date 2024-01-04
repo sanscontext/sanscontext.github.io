@@ -1,8 +1,11 @@
+---
+published: false
+---
 # Style guide
 
 This doc is for keeping track of [style decisions](#style-decisions), [structure decisions](#doc-structure), and [formatting gotchas](#formatting) in the Segment Docs.
 
-## Style decisions 
+## Style decisions
 
 ## General text style
 

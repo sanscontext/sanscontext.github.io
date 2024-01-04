@@ -7,11 +7,11 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 
 Some of her areas of interest include:
 
-- Archaegology and material culture
+- Archaeology and material culture
 - Food history, especially sweets, baked goods, and gelatin
 - Historical architecture and architectural preservation
 - History of pre-industrial cosmetics and medicine
-- Carniverous plants
+- Carnivorous plants
 - Historical costume and clothing
 - Historical textile and cloth production
 - Patent garment pattern drafting systems and devices
@@ -26,7 +26,6 @@ Some of her areas of interest include:
 - Skeuomorphic repurposing
 - Archival and museum conservation and restoration
 
-
 To speak in the first person briefly, I've lived an interesting life and that's brought me a wide array of experiences, interests, and hobbies. I've worked in food service, set carpentry, costume design, government data entry, event production, videoconference technology, and tier-two customer support - and that's just _before_ I found my actual career path.
 
-Within my career path I've been a technical writer for both print and online content, a UX researcher and designer, a product manager, program manager, trainer, and information architect.
+Within my career path I've been a technical writer for both print and online content, a UX researcher and designer, a product manager, program manager, instructional designer, trainer, and information architect.

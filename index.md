@@ -4,13 +4,13 @@ published: true
 layout: home
 ---
 
+> This page exists in its current format because it's better to have fractional professional web presence than to spend another year without any at all.
+
 About this "Laura Rubin" character...
 
 Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer living and working in the Silicon Valley. She brings together the history of dress and technology, with an emphasis in experimental archaeology and primary source research.
 
 <p><img src="https://www.oddsalon.com/wp-content/uploads/2018/01/IMG_20160726_205609-cropped-300x153.jpeg" alt="(ohai there)" width="300" height="153" /></p>
-
-This page exists in its current format because it's better to have fractional professional web presence than to spend another year without any at all.
 
 ### Odd Salon Talks
 
@@ -25,6 +25,7 @@ This page exists in its current format because it's better to have fractional pr
 - Odd Salon SCHEME - August 2019 - Sutro Saves the Silver
 - Odd Salon Giving Tuesday 2021 - History of Gelatin
 - Odd Salon REANIMATE - March 2022 - <a href="https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651">Publishing on Perishing</a>: the 19th Century Medical Race to Identify Final Irreversible Death
+- Odd Salon BAMBOOZLED - September 2023 - Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries
 
 ### Other Odd Salon Stuff
 
