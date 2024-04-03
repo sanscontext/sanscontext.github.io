@@ -12,6 +12,10 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 
 ![(ohai there)](/images/Artifact-Laura-cropped.png)
 
+### Talks on Docs
+
+- Nordic APIs - APIDays Austin 2024 - [How to Rethink and Reshape your API Documentation](https://www.youtube.com/watch?v=cd5UcwqUehE&list=PLd2MPdlXKO12G6zbXgTtKr5J48b8kVtaF&index=15)
+
 ### Odd Salon Talks
 
 - <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy
