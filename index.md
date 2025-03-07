@@ -28,8 +28,8 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 - Odd Salon ODDMENTS 2018 - December 2018 - [Death on Rails: the London Necropolis Railway](https://www.youtube.com/watch?v=tzje2hGtYmQ)
 - Odd Salon SCHEME - August 2019 - [Sutro Saves the Silver](https://youtube.com/watch?v=ZkyS_lMSqA8)
 - Odd Salon Giving Tuesday Livestream 2021 - [History of Gelatin](https://www.youtube.com/watch?v=7tS5K5WNjhA)
-- Odd Salon REANIMATE - March 2022 - [Publishing on Perishing](https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651): the 19th Century Medical Race to Identify Final Irreversible Death
-- Odd Salon BAMBOOZLED - September 2023 - [Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries](https://www.youtube.com/live/GD3bIFKMfPg?si=hhzzzvpJrRnzkTdG&t=5611)
+- Odd Salon REANIMATE - March 2022 - [Publishing on Perishing](https://www.youtube.com/watch?v=lAj40sCEQUQ)<!--[livestream](https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651)-->: the 19th Century Medical Race to Identify Final Irreversible Death
+- Odd Salon BAMBOOZLED - September 2023 - [Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries](https://www.youtube.com/watch?v=0GH6aVqj5Mk) <!--[livestream](https://www.youtube.com/live/GD3bIFKMfPg?si=hhzzzvpJrRnzkTdG&t=5611)-->
 - Odd Salon ASTOUND - February 2025 - [Modernity and Spectacle: Lighting the Tower of Jewels](https://www.youtube.com/live/1lyIHewbrMs?si=WP5h7FQAjBa-Mut3&t=3586)
 
 ### Other Odd Salon Stuff
