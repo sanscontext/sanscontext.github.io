@@ -18,23 +18,23 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 
 ### Odd Salon Talks
 
-- <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy
-- <a href="https://www.oddsalon.com/cursed-march-24-2015/">Odd Salon CURSED</a> - March 2015 - “…But You Can Never Leave” – The Truth of the Curse of Santa Cruz
-- <a href="https://www.oddsalon.com/undead-oct-20-2015/">Odd Salon UNDEAD</a> - October 2015 - Not Dead Yet: William Tebb &amp; the London Association for the Prevention of Premature Burial
-- <a href="https://www.oddsalon.com/fate-feb-23-2016/">Odd Salon FATE</a> - February 2016 - Rota Fortuna: The Original Wheel of Fortune
-- <a href="https://www.oddsalon.com/artifact-july-26-2016/">Odd Salon ARTIFACT</a> - July 2016 - Buried Beards of the Thames
+- <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2014-07-22d))
+- <a href="https://www.oddsalon.com/cursed-march-24-2015/">Odd Salon CURSED</a> - March 2015 - “…But You Can Never Leave” – The Truth of the Curse of Santa Cruz ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2015-03-24d))
+- <a href="https://www.oddsalon.com/undead-oct-20-2015/">Odd Salon UNDEAD</a> - October 2015 - Not Dead Yet: William Tebb &amp; the London Association for the Prevention of Premature Burial ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2015-10-20))
+- <a href="https://www.oddsalon.com/fate-feb-23-2016/">Odd Salon FATE</a> - February 2016 - Rota Fortuna: The Original Wheel of Fortune ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2016-02-23d))
+- <a href="https://www.oddsalon.com/artifact-july-26-2016/">Odd Salon ARTIFACT</a> - July 2016 - Buried Beards of the Thames ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-VIDEO-2016-07-26))
 - <a href="https://www.oddsalon.com/oddments-december-12-2017/">Odd Salon ODDMENTS 2017</a> - December 2017 - [Jeremy Bentham and the Formula for Happiness](https://www.youtube.com/watch?v=D7l0OZFf3Y0)
-- Odd Salon EPIC - May 2018 - Indigenous Accuracy
-- Odd Salon ODDMENTS 2018 - December 2018 - [Death on Rails: the London Necropolis Railway](https://www.youtube.com/watch?v=tzje2hGtYmQ)
-- Odd Salon SCHEME - August 2019 - [Sutro Saves the Silver](https://youtube.com/watch?v=ZkyS_lMSqA8)
+- [Odd Salon EPIC](https://oddsalon.com/salon/epic/) - May 2018 - Indigenous Accuracy (no recording available :( ))
+- [Odd Salon ODDMENTS 2018](https://oddsalon.com/salon/oddments-2018/) - December 2018 - [Death on Rails: the London Necropolis Railway](https://www.youtube.com/watch?v=tzje2hGtYmQ)
+- [Odd Salon SCHEME - August 2019](https://oddsalon.com/salon/odd-salon-sf-scheme/) - [Sutro Saves the Silver](https://youtube.com/watch?v=ZkyS_lMSqA8)
 - Odd Salon Giving Tuesday Livestream 2021 - [History of Gelatin](https://www.youtube.com/watch?v=7tS5K5WNjhA)
-- Odd Salon REANIMATE - March 2022 - [Publishing on Perishing](https://www.youtube.com/watch?v=lAj40sCEQUQ)<!--[livestream](https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651)-->: the 19th Century Medical Race to Identify Final Irreversible Death
-- Odd Salon BAMBOOZLED - September 2023 - [Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries](https://www.youtube.com/watch?v=0GH6aVqj5Mk) <!--[livestream](https://www.youtube.com/live/GD3bIFKMfPg?si=hhzzzvpJrRnzkTdG&t=5611)-->
-- Odd Salon ASTOUND - February 2025 - [Modernity and Spectacle: Lighting the Tower of Jewels](https://www.youtube.com/live/1lyIHewbrMs?si=WP5h7FQAjBa-Mut3&t=3586)
+- [Odd Salon REANIMATE](https://oddsalon.com/salon/odd-salon-sf-reanimate/) - March 2022 - [Publishing on Perishing](https://www.youtube.com/watch?v=lAj40sCEQUQ)<!--[livestream](https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651)-->: the 19th Century Medical Race to Identify Final Irreversible Death
+- [Odd Salon BAMBOOZLED](https://oddsalon.com/salon/bamboozled/) - September 2023 - [Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries](https://www.youtube.com/watch?v=0GH6aVqj5Mk) <!--[livestream](https://www.youtube.com/live/GD3bIFKMfPg?si=hhzzzvpJrRnzkTdG&t=5611)-->
+- [Odd Salon ASTOUND](https://oddsalon.com/salon/odd-salon-sf-astound/) - February 2025 - [Modernity and Spectacle: Lighting the Tower of Jewels](https://www.youtube.com/live/1lyIHewbrMs?si=WP5h7FQAjBa-Mut3&t=3586)
 
 ### Other Odd Salon Stuff
 
-- <a href="https://www.oddsalon.com/justice-october-25-2016/">Odd Salon JUSTICE</a> - August 2016 - Curator
+- <a href="https://www.oddsalon.com/justice-october-25-2016/">Odd Salon JUSTICE</a> - August 2016 - Curator, invocation. ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-VIDEO-2016-10-25))
 - <a href="https://www.oddsalon.com/oddments-2016-dec-13-2016/">Odd Salon ODDMENTS 2016</a> - Costume contest organizer
 - Odd Salon ODDMENTS 2017 - Costume contest organizer
 
