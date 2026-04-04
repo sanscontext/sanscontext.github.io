@@ -34,6 +34,7 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 
 ### Other Odd Salon Stuff
 
+- Marvelous Strange at Five Months Gallery - March 14 2016 - [Under Glass: The Victorian Passion for Collecting,](https://web.archive.org/web/20160315101714/http://www.fivemonthsgallery.com/event/under-glass-the-victorian-passion-for-collecting/) - 
 - <a href="https://www.oddsalon.com/justice-october-25-2016/">Odd Salon JUSTICE</a> - August 2016 - Curator, invocation. ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-VIDEO-2016-10-25))
 - <a href="https://www.oddsalon.com/oddments-2016-dec-13-2016/">Odd Salon ODDMENTS 2016</a> - Costume contest organizer
 - Odd Salon ODDMENTS 2017 - Costume contest organizer
@@ -41,9 +42,12 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 ### Other talks - repeats and originals
 
 - <a href="https://sf.nerdnite.com/2015/01/12/nerd-nite-sf-56-reinventing-satellites-underwater-archaeology-and-the-illusion-of-bodily-perfection/">Nerd Nite SF #56 - Jan 12, 2015</a> - Illusion of Beauty
+- <a href="https://london.nerdnite.com/2015/06/28/july-15th-fashion-themed-goodbye-to-paper-dress-plus-late-night-disco-party/">Nerd Nite London - July 15, 2015</a> - Illusion of Beauty
 - <a href="https://sf.nerdnite.com/2016/06/07/nerd-nite-73-mudlarking-strandbeest-machines-and-mite-sex/">Nerd Nite SF # 73 - June 7, 2016</a> - Mudlarking and Material Culture
 - <a href="https://web.archive.org/web/20160427075749/https://gbacg.org/current/mudlarking.php">GBACG April 2017</a> - Mudlarking and the Material Culture of Dress
-- San Francisco Browning Society - October 12, 2018 - Mudlarking and the Material Culture of London
-- Litcrawl 2018 - <a href="https://www.oddsalon.com/salon/odd-salon-at-litquake-litcrawl-cemetery-stories/">Cemetery Stories - Death on Rails</a>
-- [Exploratorium After Dark - Spooky Season 2021 -  Undead Science](https://web.archive.org/web/20211019192006/https://www.exploratorium.edu/visit/calendar/after-dark-undead-science) - William Tebb and the Society for the Prevention of Premature Burial
 - Dickens Fair participant workshops: What Victorian Londoners Knew, and The Material Culture of Victorian London.
+- San Francisco Browning Society - October 12, 2018 - Mudlarking and the Material Culture of London
+- Litcrawl 2018 - Cemetery Stories - <a href="https://www.oddsalon.com/salon/odd-salon-at-litquake-litcrawl-cemetery-stories/">Death on Rails</a>
+- [Exploratorium After Dark - Spooky Season 2021 -  Undead Science](https://web.archive.org/web/20211019192006/https://www.exploratorium.edu/visit/calendar/after-dark-undead-science) - William Tebb and the Society for the Prevention of Premature Burial
+- Storytelling at the Menlo Park Library - <a href="https://inmenlo.com/2025/11/11/storytelling-with-odd-salon-and-curiosity-guild-at-menlo-park-library-on-nov-12/">Nov 12, 2025 - "Library Returns"</a> - Modernity and Spectacle: Lighting the Tower of Jewels
+
