@@ -17,6 +17,9 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 
 - Nordic APIs - APIDays Austin 2024 - [How to Rethink and Reshape your API Documentation](https://www.youtube.com/watch?v=cd5UcwqUehE&list=PLd2MPdlXKO12G6zbXgTtKr5J48b8kVtaF&index=15)
 
+### Curiosity Guild
+- Wicked Ways, March 3rd 2026 - Curator, <a href="https://youtu.be/QbhvIeKO7Ao?si=aSt0RbaV6N6PDNG6&t=192">"San Francisco, the City that Knows How"</a>, and <a href="https://www.youtube.com/watch?v=sNx3mYFR9g0&list=PLcKmuhrcnxBGbdqD0Qe7ZrhEPOIsAd2Ju&index=5">Bonus Content: "Here's whatnow?"</a>
+
 ### Odd Salon Talks
 
 - [Odd Salon ASTOUND](https://oddsalon.com/salon/odd-salon-sf-astound/) - February 2025 - [Modernity and Spectacle: Lighting the Tower of Jewels](https://www.youtube.com/live/1lyIHewbrMs?si=WP5h7FQAjBa-Mut3&t=3586)
@@ -34,7 +37,7 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 - <a href="https://www.oddsalon.com/cursed-march-24-2015/">Odd Salon CURSED</a> - March 2015 - “…But You Can Never Leave” – The Truth of the Curse of Santa Cruz ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2015-03-24d))
 - <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2014-07-22d))
 
-### Other Odd Salon Stuff
+#### Other Odd Salon Stuff
 - <a href="https://www.oddsalon.com/oddments-2016-dec-13-2016/">Odd Salon ODDMENTS 2016</a> - Costume contest organizer
 - Odd Salon ODDMENTS 2017 - Costume contest organizer
 
