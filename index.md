@@ -13,41 +13,41 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer
 ![(ohai there)](/images/Artifact-Laura-cropped.png)
 
 ### Talks on Docs
+(in my professional life, I'm a technical writer.)
 
 - Nordic APIs - APIDays Austin 2024 - [How to Rethink and Reshape your API Documentation](https://www.youtube.com/watch?v=cd5UcwqUehE&list=PLd2MPdlXKO12G6zbXgTtKr5J48b8kVtaF&index=15)
 
 ### Odd Salon Talks
 
-- <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2014-07-22d))
-- <a href="https://www.oddsalon.com/cursed-march-24-2015/">Odd Salon CURSED</a> - March 2015 - “…But You Can Never Leave” – The Truth of the Curse of Santa Cruz ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2015-03-24d))
-- <a href="https://www.oddsalon.com/undead-oct-20-2015/">Odd Salon UNDEAD</a> - October 2015 - Not Dead Yet: William Tebb &amp; the London Association for the Prevention of Premature Burial ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2015-10-20))
-- <a href="https://www.oddsalon.com/fate-feb-23-2016/">Odd Salon FATE</a> - February 2016 - Rota Fortuna: The Original Wheel of Fortune ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2016-02-23d))
-- <a href="https://www.oddsalon.com/artifact-july-26-2016/">Odd Salon ARTIFACT</a> - July 2016 - Buried Beards of the Thames ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-VIDEO-2016-07-26))
-- <a href="https://www.oddsalon.com/oddments-december-12-2017/">Odd Salon ODDMENTS 2017</a> - December 2017 - [Jeremy Bentham and the Formula for Happiness](https://www.youtube.com/watch?v=D7l0OZFf3Y0)
-- [Odd Salon EPIC](https://oddsalon.com/salon/epic/) - May 2018 - Indigenous Accuracy (no recording available :( ))
-- [Odd Salon ODDMENTS 2018](https://oddsalon.com/salon/oddments-2018/) - December 2018 - [Death on Rails: the London Necropolis Railway](https://www.youtube.com/watch?v=tzje2hGtYmQ)
-- [Odd Salon SCHEME - August 2019](https://oddsalon.com/salon/odd-salon-sf-scheme/) - [Sutro Saves the Silver](https://youtube.com/watch?v=ZkyS_lMSqA8)
-- Odd Salon Giving Tuesday Livestream 2021 - [History of Gelatin](https://www.youtube.com/watch?v=7tS5K5WNjhA)
-- [Odd Salon REANIMATE](https://oddsalon.com/salon/odd-salon-sf-reanimate/) - March 2022 - [Publishing on Perishing](https://www.youtube.com/watch?v=lAj40sCEQUQ)<!--[livestream](https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651)-->: the 19th Century Medical Race to Identify Final Irreversible Death
-- [Odd Salon BAMBOOZLED](https://oddsalon.com/salon/bamboozled/) - September 2023 - [Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries](https://www.youtube.com/watch?v=0GH6aVqj5Mk) <!--[livestream](https://www.youtube.com/live/GD3bIFKMfPg?si=hhzzzvpJrRnzkTdG&t=5611)-->
 - [Odd Salon ASTOUND](https://oddsalon.com/salon/odd-salon-sf-astound/) - February 2025 - [Modernity and Spectacle: Lighting the Tower of Jewels](https://www.youtube.com/live/1lyIHewbrMs?si=WP5h7FQAjBa-Mut3&t=3586)
+- [Odd Salon BAMBOOZLED](https://oddsalon.com/salon/bamboozled/) - September 2023 - [Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries](https://www.youtube.com/watch?v=0GH6aVqj5Mk) <!--[livestream](https://www.youtube.com/live/GD3bIFKMfPg?si=hhzzzvpJrRnzkTdG&t=5611)-->
+- [Odd Salon REANIMATE](https://oddsalon.com/salon/odd-salon-sf-reanimate/) - March 2022 - [Publishing on Perishing](https://www.youtube.com/watch?v=lAj40sCEQUQ)<!--[livestream](https://youtube.com/live/xV2rRVS4oWc?feature=shares&t=2651)-->: the 19th Century Medical Race to Identify Final Irreversible Death
+- Odd Salon Giving Tuesday Livestream 2021 - [History of Gelatin](https://www.youtube.com/watch?v=7tS5K5WNjhA)
+- [Odd Salon SCHEME - August 2019](https://oddsalon.com/salon/odd-salon-sf-scheme/) - [Sutro Saves the Silver](https://youtube.com/watch?v=ZkyS_lMSqA8)
+- [Odd Salon ODDMENTS 2018](https://oddsalon.com/salon/oddments-2018/) - December 2018 - [Death on Rails: the London Necropolis Railway](https://www.youtube.com/watch?v=tzje2hGtYmQ)
+- [Odd Salon EPIC](https://oddsalon.com/salon/epic/) - May 2018 - Indigenous Accuracy (no recording available :( ))
+- <a href="https://www.oddsalon.com/oddments-december-12-2017/">Odd Salon ODDMENTS 2017</a> - December 2017 - [Jeremy Bentham and the Formula for Happiness](https://www.youtube.com/watch?v=D7l0OZFf3Y0)
+- <a href="https://www.oddsalon.com/justice-october-25-2016/">Odd Salon JUSTICE</a> - August 2016 - Curator, invocation. ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-VIDEO-2016-10-25))
+- <a href="https://www.oddsalon.com/artifact-july-26-2016/">Odd Salon ARTIFACT</a> - July 2016 - Buried Beards of the Thames ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-VIDEO-2016-07-26))
+- <a href="https://www.oddsalon.com/fate-feb-23-2016/">Odd Salon FATE</a> - February 2016 - Rota Fortuna: The Original Wheel of Fortune ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2016-02-23d))
+- <a href="https://www.oddsalon.com/undead-oct-20-2015/">Odd Salon UNDEAD</a> - October 2015 - Not Dead Yet: William Tebb &amp; the London Association for the Prevention of Premature Burial ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2015-10-20))
+- <a href="https://www.oddsalon.com/cursed-march-24-2015/">Odd Salon CURSED</a> - March 2015 - “…But You Can Never Leave” – The Truth of the Curse of Santa Cruz ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2015-03-24d))
+- <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2014-07-22d))
 
 ### Other Odd Salon Stuff
-
-- Marvelous Strange at Five Months Gallery - March 14 2016 - [Under Glass: The Victorian Passion for Collecting,](https://web.archive.org/web/20160315101714/http://www.fivemonthsgallery.com/event/under-glass-the-victorian-passion-for-collecting/) - 
-- <a href="https://www.oddsalon.com/justice-october-25-2016/">Odd Salon JUSTICE</a> - August 2016 - Curator, invocation. ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-VIDEO-2016-10-25))
 - <a href="https://www.oddsalon.com/oddments-2016-dec-13-2016/">Odd Salon ODDMENTS 2016</a> - Costume contest organizer
 - Odd Salon ODDMENTS 2017 - Costume contest organizer
 
 ### Other talks - repeats and originals
 
-- <a href="https://sf.nerdnite.com/2015/01/12/nerd-nite-sf-56-reinventing-satellites-underwater-archaeology-and-the-illusion-of-bodily-perfection/">Nerd Nite SF #56 - Jan 12, 2015</a> - Illusion of Beauty
-- <a href="https://london.nerdnite.com/2015/06/28/july-15th-fashion-themed-goodbye-to-paper-dress-plus-late-night-disco-party/">Nerd Nite London - July 15, 2015</a> - Illusion of Beauty
-- <a href="https://sf.nerdnite.com/2016/06/07/nerd-nite-73-mudlarking-strandbeest-machines-and-mite-sex/">Nerd Nite SF # 73 - June 7, 2016</a> - Mudlarking and Material Culture
-- <a href="https://web.archive.org/web/20160427075749/https://gbacg.org/current/mudlarking.php">GBACG April 2017</a> - Mudlarking and the Material Culture of Dress
-- Dickens Fair participant workshops: What Victorian Londoners Knew, and The Material Culture of Victorian London.
-- San Francisco Browning Society - October 12, 2018 - Mudlarking and the Material Culture of London
-- Litcrawl 2018 - Cemetery Stories - <a href="https://www.oddsalon.com/salon/odd-salon-at-litquake-litcrawl-cemetery-stories/">Death on Rails</a>
-- [Exploratorium After Dark - Spooky Season 2021 -  Undead Science](https://web.archive.org/web/20211019192006/https://www.exploratorium.edu/visit/calendar/after-dark-undead-science) - William Tebb and the Society for the Prevention of Premature Burial
 - Storytelling at the Menlo Park Library - <a href="https://inmenlo.com/2025/11/11/storytelling-with-odd-salon-and-curiosity-guild-at-menlo-park-library-on-nov-12/">Nov 12, 2025 - "Library Returns"</a> - Modernity and Spectacle: Lighting the Tower of Jewels
+- [Exploratorium After Dark - Spooky Season 2021 -  Undead Science](https://web.archive.org/web/20211019192006/https://www.exploratorium.edu/visit/calendar/after-dark-undead-science) - William Tebb and the Society for the Prevention of Premature Burial
+- Litcrawl 2018 - Cemetery Stories - <a href="https://www.oddsalon.com/salon/odd-salon-at-litquake-litcrawl-cemetery-stories/">Death on Rails</a>
+- San Francisco Browning Society - October 12, 2018 - Mudlarking and the Material Culture of London
+- Dickens Fair participant workshops: What Victorian Londoners Knew, and The Material Culture of Victorian London.
+- <a href="https://web.archive.org/web/20160427075749/https://gbacg.org/current/mudlarking.php">GBACG April 2017</a> - Mudlarking and the Material Culture of Dress
+- <a href="https://sf.nerdnite.com/2016/06/07/nerd-nite-73-mudlarking-strandbeest-machines-and-mite-sex/">Nerd Nite SF # 73 - June 7, 2016</a> - Mudlarking and Material Culture
+- Marvelous Strange at Five Months Gallery - March 14 2016 - [Under Glass: The Victorian Passion for Collecting,](https://web.archive.org/web/20160315101714/http://www.fivemonthsgallery.com/event/under-glass-the-victorian-passion-for-collecting/)
+- <a href="https://london.nerdnite.com/2015/06/28/july-15th-fashion-themed-goodbye-to-paper-dress-plus-late-night-disco-party/">Nerd Nite London - July 15, 2015</a> - Illusion of Beauty
+- <a href="https://sf.nerdnite.com/2015/01/12/nerd-nite-sf-56-reinventing-satellites-underwater-archaeology-and-the-illusion-of-bodily-perfection/">Nerd Nite SF #56 - Jan 12, 2015</a> - Illusion of Beauty
 
