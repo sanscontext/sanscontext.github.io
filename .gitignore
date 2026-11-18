@@ -28,7 +28,8 @@ codekit-config.json
 _asset_bundler_cache
 _site
 
-# Astro Starlight
+# Astro
 .astro/
 dist/
 yarn.lock
+_drafts_archive/

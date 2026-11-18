@@ -1,0 +1,136 @@
+---
+import BaseLayout from "../../layouts/BaseLayout.astro";
+import { PAGES } from "../../config";
+
+if (PAGES.talks.isActive === false) {
+    return Astro.redirect("/404");
+}
+---
+
+<BaseLayout title={PAGES.talks.title}>
+    <header class="page-header">
+        <h1 class="page-title">{PAGES.talks.title}</h1>
+        <p class="page-subtitle">{PAGES.talks.subtitle}</p>
+    </header>
+
+    <div class="prose max-w-none">
+        <section class="mb-8">
+            <h2>Talks on Docs</h2>
+            <p class="text-secondary italic">In my professional life, I'm a technical writer.</p>
+            <ul>
+                <li>
+                    Nordic APIs - APIDays Austin 2024: 
+                    <a href="https://www.youtube.com/watch?v=cd5UcwqUehE&list=PLd2MPdlXKO12G6zbXgTtKr5J48b8kVtaF&index=15" target="_blank" rel="noopener noreferrer">How to Rethink and Reshape your API Documentation</a>
+                </li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2>Curiosity Guild</h2>
+            <ul>
+                <li>
+                    <strong>Wicked Ways (March 3, 2026)</strong>: Curator, 
+                    <a href="https://youtu.be/QbhvIeKO7Ao?si=aSt0RbaV6N6PDNG6&t=192" target="_blank" rel="noopener noreferrer">"San Francisco, the City that Knows How"</a>, and 
+                    <a href="https://www.youtube.com/watch?v=sNx3mYFR9g0&list=PLcKmuhrcnxBGbdqD0Qe7ZrhEPOIsAd2Ju&index=5" target="_blank" rel="noopener noreferrer">Bonus Content: "Here's whatnow?"</a>
+                </li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2>Odd Salon Talks</h2>
+            <ul>
+                <li>
+                    <a href="https://oddsalon.com/salon/odd-salon-sf-astound/" target="_blank" rel="noopener noreferrer">Odd Salon ASTOUND</a> (February 2025) – 
+                    <a href="https://www.youtube.com/live/1lyIHewbrMs?si=WP5h7FQAjBa-Mut3&t=3586" target="_blank" rel="noopener noreferrer">Modernity and Spectacle: Lighting the Tower of Jewels</a>
+                </li>
+                <li>
+                    <a href="https://oddsalon.com/salon/bamboozled/" target="_blank" rel="noopener noreferrer">Odd Salon BAMBOOZLED</a> (September 2023) – 
+                    <a href="https://www.youtube.com/watch?v=0GH6aVqj5Mk" target="_blank" rel="noopener noreferrer">Counterfeit or Collectable: Economic Opportunism & the Shadwell Forgeries</a>
+                </li>
+                <li>
+                    <a href="https://oddsalon.com/salon/odd-salon-sf-reanimate/" target="_blank" rel="noopener noreferrer">Odd Salon REANIMATE</a> (March 2022) – 
+                    <a href="https://www.youtube.com/watch?v=lAj40sCEQUQ" target="_blank" rel="noopener noreferrer">Publishing on Perishing</a>: the 19th Century Medical Race to Identify Final Irreversible Death
+                </li>
+                <li>
+                    Odd Salon Giving Tuesday Livestream (2021) – 
+                    <a href="https://www.youtube.com/watch?v=7tS5K5WNjhA" target="_blank" rel="noopener noreferrer">History of Gelatin</a>
+                </li>
+                <li>
+                    <a href="https://oddsalon.com/salon/odd-salon-sf-scheme/" target="_blank" rel="noopener noreferrer">Odd Salon SCHEME</a> (August 2019) – 
+                    <a href="https://youtube.com/watch?v=ZkyS_lMSqA8" target="_blank" rel="noopener noreferrer">Sutro Saves the Silver</a>
+                </li>
+                <li>
+                    <a href="https://oddsalon.com/salon/oddments-2018/" target="_blank" rel="noopener noreferrer">Odd Salon ODDMENTS 2018</a> (December 2018) – 
+                    <a href="https://www.youtube.com/watch?v=tzje2hGtYmQ" target="_blank" rel="noopener noreferrer">Death on Rails: the London Necropolis Railway</a>
+                </li>
+                <li>
+                    <a href="https://oddsalon.com/salon/epic/" target="_blank" rel="noopener noreferrer">Odd Salon EPIC</a> (May 2018) – Indigenous Accuracy (no recording available)
+                </li>
+                <li>
+                    <a href="https://www.oddsalon.com/oddments-december-12-2017/" target="_blank" rel="noopener noreferrer">Odd Salon ODDMENTS 2017</a> (December 2017) – 
+                    <a href="https://www.youtube.com/watch?v=D7l0OZFf3Y0" target="_blank" rel="noopener noreferrer">Jeremy Bentham and the Formula for Happiness</a>
+                </li>
+                <li>
+                    <a href="https://www.oddsalon.com/justice-october-25-2016/" target="_blank" rel="noopener noreferrer">Odd Salon JUSTICE</a> (August 2016) – Curator, invocation (<a href="https://archive.org/details/DNALOUNGE-VIDEO-2016-10-25" target="_blank" rel="noopener noreferrer">DNA Lounge webcast</a>)
+                </li>
+                <li>
+                    <a href="https://www.oddsalon.com/artifact-july-26-2016/" target="_blank" rel="noopener noreferrer">Odd Salon ARTIFACT</a> (July 2016) – Buried Beards of the Thames (<a href="https://archive.org/details/DNALOUNGE-VIDEO-2016-07-26" target="_blank" rel="noopener noreferrer">DNA Lounge webcast</a>)
+                </li>
+                <li>
+                    <a href="https://www.oddsalon.com/fate-feb-23-2016/" target="_blank" rel="noopener noreferrer">Odd Salon FATE</a> (February 2016) – Rota Fortuna: The Original Wheel of Fortune (<a href="https://archive.org/details/DNALOUNGE-2016-02-23d" target="_blank" rel="noopener noreferrer">DNA Lounge webcast</a>)
+                </li>
+                <li>
+                    <a href="https://www.oddsalon.com/undead-oct-20-2015/" target="_blank" rel="noopener noreferrer">Odd Salon UNDEAD</a> (October 2015) – Not Dead Yet: William Tebb & the London Association for the Prevention of Premature Burial (<a href="https://archive.org/details/DNALOUNGE-2015-10-20" target="_blank" rel="noopener noreferrer">DNA Lounge webcast</a>)
+                </li>
+                <li>
+                    <a href="https://www.oddsalon.com/cursed-march-24-2015/" target="_blank" rel="noopener noreferrer">Odd Salon CURSED</a> (March 2015) – “…But You Can Never Leave” – The Truth of the Curse of Santa Cruz (<a href="https://archive.org/details/DNALOUNGE-2015-03-24d" target="_blank" rel="noopener noreferrer">DNA Lounge webcast</a>)
+                </li>
+                <li>
+                    <a href="https://www.oddsalon.com/illusion/" target="_blank" rel="noopener noreferrer">Odd Salon ILLUSION</a> (July 2014) – The Illusion of Perfection: Fake Boobs, Fake Butts & Our Unending Struggle With Human Inadequacy (<a href="https://archive.org/details/DNALOUNGE-2014-07-22d" target="_blank" rel="noopener noreferrer">DNA Lounge webcast</a>)
+                </li>
+            </ul>
+
+            <h3 class="mt-4 text-base font-semibold">Other Odd Salon Projects</h3>
+            <ul>
+                <li>Odd Salon ODDMENTS 2016 & 2017 – Costume contest organizer</li>
+            </ul>
+        </section>
+
+        <section class="mb-8">
+            <h2>Other Talks & Lectures</h2>
+            <ul>
+                <li>
+                    Storytelling at the Menlo Park Library (Nov 12, 2025 - "Library Returns"): 
+                    <a href="https://inmenlo.com/2025/11/11/storytelling-with-odd-salon-and-curiosity-guild-at-menlo-park-library-on-nov-12/" target="_blank" rel="noopener noreferrer">Modernity and Spectacle: Lighting the Tower of Jewels</a>
+                </li>
+                <li>
+                    <a href="https://web.archive.org/web/20211019192006/https://www.exploratorium.edu/visit/calendar/after-dark-undead-science" target="_blank" rel="noopener noreferrer">Exploratorium After Dark - Spooky Season 2021</a> – Undead Science: William Tebb and the Society for the Prevention of Premature Burial
+                </li>
+                <li>
+                    Litcrawl 2018 (Cemetery Stories) – <a href="https://www.oddsalon.com/salon/odd-salon-at-litquake-litcrawl-cemetery-stories/" target="_blank" rel="noopener noreferrer">Death on Rails</a>
+                </li>
+                <li>
+                    San Francisco Browning Society (October 12, 2018) – Mudlarking and the Material Culture of London
+                </li>
+                <li>
+                    Dickens Fair participant workshops: What Victorian Londoners Knew, and The Material Culture of Victorian London.
+                </li>
+                <li>
+                    <a href="https://web.archive.org/web/20160427075749/https://gbacg.org/current/mudlarking.php" target="_blank" rel="noopener noreferrer">GBACG April 2017</a> – Mudlarking and the Material Culture of Dress
+                </li>
+                <li>
+                    <a href="https://sf.nerdnite.com/2016/06/07/nerd-nite-73-mudlarking-strandbeest-machines-and-mite-sex/" target="_blank" rel="noopener noreferrer">Nerd Nite SF #73 (June 7, 2016)</a> – Mudlarking and Material Culture
+                </li>
+                <li>
+                    Marvelous Strange at Five Months Gallery (March 14, 2016) – <a href="https://web.archive.org/web/20160315101714/http://www.fivemonthsgallery.com/event/under-glass-the-victorian-passion-for-collecting/" target="_blank" rel="noopener noreferrer">Under Glass: The Victorian Passion for Collecting</a>
+                </li>
+                <li>
+                    <a href="https://london.nerdnite.com/2015/06/28/july-15th-fashion-themed-goodbye-to-paper-dress-plus-late-night-disco-party/" target="_blank" rel="noopener noreferrer">Nerd Nite London (July 15, 2015)</a> – Illusion of Beauty
+                </li>
+                <li>
+                    <a href="https://sf.nerdnite.com/2015/01/12/nerd-nite-sf-56-reinventing-satellites-underwater-archaeology-and-the-illusion-of-bodily-perfection/" target="_blank" rel="noopener noreferrer">Nerd Nite SF #56 (Jan 12, 2015)</a> – Illusion of Beauty
+                </li>
+            </ul>
+        </section>
+    </div>
+</BaseLayout>
