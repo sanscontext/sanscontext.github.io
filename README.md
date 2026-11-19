@@ -1,2 +1,3 @@
 # sanscontext.github.io
-test jekyll with segment
+
+Stub of a professional website, now in Astro!
