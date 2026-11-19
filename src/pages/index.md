@@ -12,12 +12,15 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer 
 ![(ohai there)](/images/Artifact-Laura-cropped.png)
 
 ### Talks on Docs
+
 *(in my professional life, I'm a technical writer.)*
 
 - Nordic APIs - APIDays Austin 2024 - [How to Rethink and Reshape your API Documentation](https://www.youtube.com/watch?v=cd5UcwqUehE&list=PLd2MPdlXKO12G6zbXgTtKr5J48b8kVtaF&index=15)
 
 ### Curiosity Guild
+
 - Wicked Ways, March 3rd 2026 - Curator, <a href="https://youtu.be/QbhvIeKO7Ao?si=aSt0RbaV6N6PDNG6&t=192">"San Francisco, the City that Knows How"</a>, and <a href="https://www.youtube.com/watch?v=sNx3mYFR9g0&list=PLcKmuhrcnxBGbdqD0Qe7ZrhEPOIsAd2Ju&index=5">Bonus Content: "Here's whatnow?"</a>
+- Grave Mistake, October 6th 2026 - Curator, "How Not to Screw Up: a scientific look at mistakes, memes, and cultural memory."
 
 ### Odd Salon Talks
 
@@ -37,6 +40,7 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer 
 - <a href="https://www.oddsalon.com/illusion/">Odd Salon ILLUSION</a> - July 2014 - The Illusion of Perfection: Fake Boobs, Fake Butts &amp; Our Unending Struggle With Human Inadequacy ([DNA Lounge webcast at Archive.org](https://archive.org/details/DNALOUNGE-2014-07-22d))
 
 #### Other Odd Salon Stuff
+
 - <a href="https://www.oddsalon.com/oddments-2016-dec-13-2016/">Odd Salon ODDMENTS 2016</a> - Costume contest organizer
 - Odd Salon ODDMENTS 2017 - Costume contest organizer
 
