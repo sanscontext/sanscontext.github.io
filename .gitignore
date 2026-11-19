@@ -2,15 +2,8 @@
 *~
 *.sw[p_]
 
-# Sublime Text
-*.sublime-project
-*.sublime-workspace
-
-# Ruby Gem
-*.gem
-.bundle
-Gemfile.lock
-**/vendor/bundle
+# local drafts
+_drafts_archive/
 
 # Node.js and NPM
 node_modules
@@ -21,15 +14,7 @@ codekit-config.json
 # macOS
 .DS_Store
 
-# Jekyll generated files
-.jekyll-cache
-.jekyll-metadata
-.sass-cache
-_asset_bundler_cache
-_site
-
 # Astro
 .astro/
 dist/
 yarn.lock
-_drafts_archive/
