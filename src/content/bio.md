@@ -1,11 +1,11 @@
 ---
 name: "Laura Rubin"
-avatar: "Artifact-Laura-cropped.png"
-shortBio: "Interdisciplinary writer, lecturer, and costumer living and working in San Francisco."
+avatar: "headshot.png"
+shortBio: "Interdisciplinary researcher, writer, lecturer, old house nerd, and costumer living and working in San Francisco."
 institution: "San Francisco, CA"
 ---
 
-Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer living and working in San Francisco. She brings together the history of dress and technology, with an emphasis in experimental archaeology and primary source research.
+Laura Rubin is an aggressively-interdisciplinary researcher, writer, lecturer, old-house nerd, and costumer living and working in San Francisco. She brings together the history of technology with other subjects like fashion, food, and architecture, with an emphasis in experimental archaeology and primary source research.
 
 ## Areas of Interest
 
@@ -14,7 +14,7 @@ Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer 
 - Historical architecture and architectural preservation
 - History of pre-industrial cosmetics and medicine
 - Historical costume and clothing
-- Historical textile and cloth production
+- Historical fiber production, processing, and textile creation
 - Patent garment pattern drafting systems and devices
 - Sewing machines and sewing machine repair
 - Theatrical costume and costume design techniques

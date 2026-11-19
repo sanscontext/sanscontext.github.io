@@ -3,7 +3,7 @@ import type { SiteConfig, ThemeConfig, SettingsConfig, UmamiAnalyticsConfig, Ana
 export const SITE: SiteConfig = {
     website: "https://sanscontext.github.io",
     author: "Laura Rubin",
-    desc: "Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer living and working in San Francisco.",
+    desc: "Laura Rubin is an aggressively-interdisciplinary researcher, writer, lecturer, old house nerd, and costumer living and working in San Francisco.",
     title: "Laura Rubin",
     ogImage: "Artifact-Laura-cropped.png",
     postPerPage: 5,
