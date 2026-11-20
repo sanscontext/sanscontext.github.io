@@ -9,7 +9,7 @@ About this "Laura Rubin" character...
 
 Laura Rubin is an aggressively-interdisciplinary writer, lecturer, and costumer living and working in the Silicon Valley. She brings together the history of dress and technology, with an emphasis in experimental archaeology and primary source research.
 
-![(ohai there)](/images/Artifact-Laura-cropped.png)
+![(ohai there)](/Artifact-Laura-cropped.png)
 
 ### Talks on Docs
 
